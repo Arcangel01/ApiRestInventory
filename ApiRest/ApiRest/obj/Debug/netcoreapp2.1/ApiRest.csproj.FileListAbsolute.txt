@@ -1,0 +1,14 @@
+D:\Sergio\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.deps.json
+D:\Sergio\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.runtimeconfig.json
+D:\Sergio\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.runtimeconfig.dev.json
+D:\Sergio\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.dll
+D:\Sergio\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.csproj.CoreCompileInputs.cache
+D:\Sergio\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.RazorAssemblyInfo.cache
+D:\Sergio\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.RazorAssemblyInfo.cs
+D:\Sergio\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.AssemblyInfoInputs.cache
+D:\Sergio\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.AssemblyInfo.cs
+D:\Sergio\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.RazorTargetAssemblyInfo.cache
+D:\Sergio\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.pdb
+D:\Sergio\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.dll
+D:\Sergio\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.pdb
+D:\Sergio\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.csprojAssemblyReference.cache
